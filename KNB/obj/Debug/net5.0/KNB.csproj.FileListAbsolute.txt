@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\KNB\KNB\bin\Debug\net5.0\KNB.exe
+C:\Users\Lenovo\source\repos\KNB\KNB\bin\Debug\net5.0\KNB.deps.json
+C:\Users\Lenovo\source\repos\KNB\KNB\bin\Debug\net5.0\KNB.runtimeconfig.json
+C:\Users\Lenovo\source\repos\KNB\KNB\bin\Debug\net5.0\KNB.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\KNB\KNB\bin\Debug\net5.0\KNB.dll
+C:\Users\Lenovo\source\repos\KNB\KNB\bin\Debug\net5.0\ref\KNB.dll
+C:\Users\Lenovo\source\repos\KNB\KNB\bin\Debug\net5.0\KNB.pdb
+C:\Users\Lenovo\source\repos\KNB\KNB\obj\Debug\net5.0\KNB.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\KNB\KNB\obj\Debug\net5.0\KNB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\KNB\KNB\obj\Debug\net5.0\KNB.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\KNB\KNB\obj\Debug\net5.0\KNB.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\KNB\KNB\obj\Debug\net5.0\KNB.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KNB\KNB\obj\Debug\net5.0\KNB.dll
+C:\Users\Lenovo\source\repos\KNB\KNB\obj\Debug\net5.0\ref\KNB.dll
+C:\Users\Lenovo\source\repos\KNB\KNB\obj\Debug\net5.0\KNB.pdb
+C:\Users\Lenovo\source\repos\KNB\KNB\obj\Debug\net5.0\KNB.genruntimeconfig.cache
